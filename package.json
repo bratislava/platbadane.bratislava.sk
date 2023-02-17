@@ -36,7 +36,7 @@
     "next-i18next": "^9.1.0",
     "next-plugin-custom-babel-config": "^1.0.5",
     "next-transpile-modules": "^8.0.0",
-    "passport": "^0.4.0",
+    "passport": "^0.6.0",
     "passport-azure-ad": "^4.3.1",
     "pg": "^8.7.3",
     "postcss-import": "^14.0.2",
